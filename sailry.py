@@ -1,3 +1,4 @@
+# simple salary calculator
 def getdata():
     months=int(input("ketna month work kiya:"))
     salary=float(input("ketni salary milte the:"))
